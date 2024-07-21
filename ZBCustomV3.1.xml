@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+        <name>ZBCustomV3.1</name>
+        <longname>ZB Custom Set V3.1</longname>
+        <settype>Custom</settype>
+        <releasedate>2024-07-21</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+        <name>Captain Zapp Brannigan</name>
+        <text>At the beginning of combat on your turn, choose target nonland permanent you control. Until end of turn, it becomes a Vehicle Artifact with base power and toughness each equal to its mana value, and it gains crew 2 and "Suicide Mission - Whenever this Vehicle deal damage, roll a six-sided die. If the result is equal to this Vehicle's mana value, sacrifice this Vehicle, then it deals that much damage to any target."</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Legendary Creature - Human Pilot Employee</type>
+            <maintype>Creature</maintype>
+            <manacost>1RW</manacost>
+            <cmc>3</cmc>
+            <colors>RW</colors>
+            <coloridentity>RW</coloridentity>
+            <pt>2/2</pt>
+        </prop>
+        <set picurl="C:\Users\Brandon\AppData\Local\Cockatrice\Cockatrice\pics\CUSTOM\Cards\2. Captain Rex Nebula (Captain Zapp Brannigan).png">Futurama</set>
+        <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angel (Leela)</name>
+      <text>Flying, Vigilance -- "Well, it wasn't a bad life, if only I could get back that time I spent watching Tron: Legacy."</text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Creature - Angel</type>
+        <maintype>Creature</maintype>
+        <manacost>N/A</manacost>
+        <cmc>0</cmc>
+        <colors>none</colors>
+        <coloridentity>W</coloridentity>
+        <pt>4/4</pt>
+      </prop>
+      <set picurl="https://i.etsystatic.com/15598267/r/il/2dd779/5870987549/il_570xN.5870987549_dera.jpg">Futurama</set>
+      <tablerow>2</tablerow>
+      <token>1</token>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

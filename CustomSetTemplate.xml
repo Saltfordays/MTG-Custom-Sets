@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    CustomSetTemplate.xml
+    Created by Brandon Douglas
+    Last Updated: 7/21/2024
+
+    Go to https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-%26-Sets#to-add-custom-art-for-cards-the-easiest-way-is-to-use-the-custom-folder
+    to find the current Cockatrice documentation on how to set up custom sets and cards.
+
+ -->
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+        <name></name>
+        <longname></longname>
+        <settype></settype>
+        <releasedate></releasedate>
+    </set>
+    </sets>
+    <card>
+        <name></name>
+        <text></text>
+        <prop>
+            <layout></layout>
+            <side></side>
+            <type></type>
+            <maintype></maintype>
+            <manacost></manacost>
+            <cmc></cmc>
+            <colors></colors>
+            <coloridentity></coloridentity>
+            <pt></pt>
+            <loyalty></loyalty> <!-- Delete if not needed -->
+        </prop>
+        <set picurl="">Futurama</set>
+        <tablerow></tablerow>
+        <!-- Delete all tags bellow that are not needed -->
+        <related></related>
+        <token>1</token>
+        <cipt>1</cipt>
+        <upsidedown>1</upsidedown>
+    </card>
+</cockatrice_carddatabase>

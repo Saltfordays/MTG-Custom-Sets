@@ -23,7 +23,7 @@
             <coloridentity>RW</coloridentity>
             <pt>2/2</pt>
         </prop>
-        <set picurl="C:\Users\Brandon\AppData\Local\Cockatrice\Cockatrice\pics\CUSTOM\Cards\2. Captain Rex Nebula (Captain Zapp Brannigan).png">Futurama</set>
+        <set picurl="https://raw.githubusercontent.com/Saltfordays/MTG-Custom-Sets/main/CustomCards/Futurama/2.%20%20Captain%20Rex%20Nebula%20(Captain%20Zapp%20Brannigan).png">Futurama</set>
         <tablerow>2</tablerow>
     </card>
     <card>
@@ -40,7 +40,7 @@
         <coloridentity>W</coloridentity>
         <pt>4/4</pt>
       </prop>
-      <set picurl="https://i.etsystatic.com/15598267/r/il/2dd779/5870987549/il_570xN.5870987549_dera.jpg">Futurama</set>
+      <set picurl="https://raw.githubusercontent.com/Saltfordays/MTG-Custom-Sets/main/CustomCards/Futurama/Angel_Token.png">Futurama</set>
       <tablerow>2</tablerow>
       <token>1</token>
     </card>
